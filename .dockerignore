@@ -5,6 +5,9 @@ target/
 .vscode/
 *.log
 README.md
+<<<<<<< HEAD
 .mvn/
 mvnw
 mvnw.cmd
+=======
+>>>>>>> 750264ba9338cf910dc275c5e6f1763ca85f0f8e
